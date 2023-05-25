@@ -1,4 +1,5 @@
-.gb
-.sym
-.o
+*.gb
+*.sym
+*.o
+.DS_Store
 main_DMA.asm
